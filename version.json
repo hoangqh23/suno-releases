@@ -1,9 +1,9 @@
 {
-  "versionCode": 30,
-  "versionName": "0.5.8",
+  "versionCode": 31,
+  "versionName": "0.5.9",
   "releaseDate": "2026-10-18",
   "isMandatory": false,
-  "changelog": "• Tích hợp tải nhạc/video đa nền tảng bằng yt-dlp (hỗ trợ YouTube, TikTok, SoundCloud, Facebook...)\n• Tùy chọn tải đa định dạng: MP3 320kbps, M4A, WAV, FLAC, Video MP4 và Trọn bộ (All-in-One)\n• Nút 'Cập nhật yt-dlp' ngay trong app để luôn tải mượt mà không lo YouTube chặn\n• Khắc phục triệt để lỗi HTTP 403 Suno AI (giải mã AES-GCM/AES-CTR)\n• Giao diện Compact Mode tối ưu, mượt mà và nhẹ nhàng",
-  "apkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.8/SunoUpload-0.5.8-inplace-update.apk",
-  "officialApkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.8/SunoUpload-0.5.8-official-release.apk"
+  "changelog": "• Khắc phục hoàn toàn lỗi văng ứng dụng khi bấm mở app: sửa Proguard Keep Rules cho nhân native yt-dlp & FFmpeg\n• Tối ưu khởi động: chuyển sang cơ chế nạp thư viện theo yêu cầu (Lazy Loading), an toàn tuyệt đối 100%\n• Tích hợp tải nhạc/video đa nền tảng yt-dlp (hỗ trợ YouTube, TikTok, SoundCloud, Facebook...)\n• Tùy chọn tải đa định dạng: MP3 320kbps, M4A, WAV, FLAC, Video MP4 và Trọn bộ (All-in-One)\n• Nút 'Cập nhật yt-dlp' ngay trong app để luôn tải mượt mà không lo YouTube chặn",
+  "apkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.9/SunoUpload-0.5.9-inplace-update.apk",
+  "officialApkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.9/SunoUpload-0.5.9-official-release.apk"
 }
