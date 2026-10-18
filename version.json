@@ -1,9 +1,9 @@
 {
-  "versionCode": 32,
-  "versionName": "0.5.10",
+  "versionCode": 33,
+  "versionName": "0.5.11",
   "releaseDate": "2026-10-18",
   "isMandatory": false,
-  "changelog": "• Khắc phục hoàn toàn lỗi 'yt-dlp chưa sẵn sàng: vd0' khi tải nhạc: Bổ sung Proguard Keep Rules cho Apache Commons Compress & IO và Jackson\n• Bảo toàn cơ chế giải nén gói python/ffmpeg (.zip.so) và VideoInfo mapper không bị R8 xáo trộn\n• Tự động khởi chạy ngầm yt-dlp khi vào Tab Tải nhạc giúp lấy thông tin tức thì không bị chờ\n• Hỗ trợ tải đa định dạng: WAV Studio Master, FLAC, MP3 320k, M4A, Video MP4 từ YouTube, TikTok, Suno...",
-  "apkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.10/SunoUpload-0.5.10-inplace-update.apk",
-  "officialApkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.10/SunoUpload-0.5.10-official-release.apk"
+  "changelog": "• Khắc phục triệt để lỗi 'Permission denied [Errno 13]' trên Android 10, 11, 12, 13, 14, 15 khi tải nhạc YouTube/Suno qua yt-dlp.\n• Cơ chế lưu trữ 3 tầng Scoped Storage an toàn: Tự động staging qua cacheDir nội bộ và commit ra MediaStore.Downloads (Tải về/SunoMusic) không cần cấp quyền đặc quyền.\n• Bổ sung tham số trích xuất youtube:player_client=android,web vượt qua cơ chế giới hạn SABR streaming từ máy chủ YouTube.\n• Tự động tải ngầm và nạp sẵn lõi yt-dlp/ffmpeg ngay từ khi mở app, thao tác phân tích và tải tức thì không có độ trễ.",
+  "apkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.11/SunoUpload-0.5.11-inplace-update.apk",
+  "officialApkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.11/SunoUpload-0.5.11-official-release.apk"
 }
