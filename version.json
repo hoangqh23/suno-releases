@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "0.5.7",
+  "versionCode": 30,
+  "versionName": "0.5.8",
   "releaseDate": "2026-10-18",
   "isMandatory": false,
-  "changelog": "• Khắc phục hoàn toàn lỗi HTTP 403 khi tải nhạc Suno: tích hợp cơ chế giải mã tự động luồng CloudFront Mango/EDEN (AES-GCM/AES-CTR)\n• Sửa lỗi R8 Obfuscation khiến tính năng Kiểm tra bản cập nhật bị văng Class dev.sunoupload.app.internal.w72\n• Tối ưu giao diện: cố định mặc định chế độ Thu gọn (Compact Mode), loại bỏ nút chuyển đổi thừa ở thanh điều hướng\n• Nâng cấp trải nghiệm nghe trước (Preview) mượt mà với bộ nhớ đệm giải mã cục bộ",
-  "apkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.7/SunoUpload-0.5.7-inplace-update.apk",
-  "officialApkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.7/SunoUpload-0.5.7-official-release.apk"
+  "changelog": "• Tích hợp tải nhạc/video đa nền tảng bằng yt-dlp (hỗ trợ YouTube, TikTok, SoundCloud, Facebook...)\n• Tùy chọn tải đa định dạng: MP3 320kbps, M4A, WAV, FLAC, Video MP4 và Trọn bộ (All-in-One)\n• Nút 'Cập nhật yt-dlp' ngay trong app để luôn tải mượt mà không lo YouTube chặn\n• Khắc phục triệt để lỗi HTTP 403 Suno AI (giải mã AES-GCM/AES-CTR)\n• Giao diện Compact Mode tối ưu, mượt mà và nhẹ nhàng",
+  "apkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.8/SunoUpload-0.5.8-inplace-update.apk",
+  "officialApkUrl": "https://github.com/hoangqh23/suno-releases/releases/download/v0.5.8/SunoUpload-0.5.8-official-release.apk"
 }
